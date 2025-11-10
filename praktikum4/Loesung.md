@@ -83,3 +83,19 @@ DTL.02
     x1(x2(C, B), A)                                         # Irrelevantes x3
 
 DTL.03
+    1.
+        ![Bild](Tree1.png)
+        Fehlerrate : 25%
+        Confusion Matrix : Da es nur wenige Datensätze gibt ist der Baum sehr inakkurat
+
+        ![Bild](Tree2.png)
+        Fehlerrate : 0.99%
+    2.
+        Nominale Attribute akzeptierten nur vordefinierte Werte
+        Numerische Attribute akzeptieren Zahlen
+        String-Attribute akzeptieren Strings
+    3.
+        ![Bild](Arff1.png)
+        Der Baum ist identisch zum Baum vom .csv Format
+        ![Bild](Id3.png)
+        Der Id3 Baum hat eine Fehlerquote von 0% und ist somit (in diesem Fall) präziser.
