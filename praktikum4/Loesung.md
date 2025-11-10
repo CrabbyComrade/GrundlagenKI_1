@@ -84,10 +84,9 @@ DTL.02
 
 DTL.03
     1.
-        ![Bild](Tree1.png)
+        ![Bild](Tree1.png)                            
         Fehlerrate : 25%
         Confusion Matrix : Da es nur wenige Datensätze gibt ist der Baum sehr inakkurat
-
         ![Bild](Tree2.png)
         Fehlerrate : 0.99%
     2.
