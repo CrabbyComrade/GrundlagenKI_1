@@ -1,4 +1,4 @@
-Name, HasFur, HasHair, IsCarnivore, IsHerbivore, IsOmnivore, HasLegs, IsAquatic, IsAerial, IsReptile, IsBird, IsFish, IsMammal, IsAmphibian, IsInsect, Category
+Name, HasFur, HasHair, Eggs, Milk, IsCarnivore, IsHerbivore, IsOmnivore, HasLegs, IsAquatic, IsAerial, IsReptile, IsBird, IsFish, IsMammal, IsAmphibian, IsInsect, Category,
 aardvark,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,mammal
 antelope,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,mammal
 bass,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,fish
